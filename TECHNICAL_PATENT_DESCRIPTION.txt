@@ -1,0 +1,7 @@
+
+Technical Patent Description:
+
+- Uses DNA/biometrics + secret + salt to generate unique SHA-256 identity token.
+- Maps tokens into custom visual glyphs (Latin, Katakana, Runes).
+- Packages as QR for multi-device restoration of AI context & memory.
+- Designed for cross-platform AI+Human identity, ideal for AR/VR, smart devices, metaverses.
